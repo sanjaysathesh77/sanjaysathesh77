@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sanjaysathesh77
+- 👀 I’m interested in coding
+- i'm pursuing 2nd year BSc computer science(data science & analytics)
